@@ -33,7 +33,7 @@ To prevent item despawn.<br />
 防止物品消失。
 
 This is a reborn project of NoItemDespawn [Modification], and rewrote code for better performance.<br />
-這是NoItemDespawn［模組］的重生項目，並重寫代碼以獲得更好的性能。
+這是NoItemDespawn［模組］的重生專案，並重寫代碼以獲得更好的性能。
 
 Have you cry because you cannot pick up all of the items in time after death? Have you loss any important item because of item despawn? Now, this data pack solved these problems!<br />
 你是否曾經傷心因為你死後不能及時拿起所有物品嗎？你是否因為物品消失而丟失了任何重要的物品嗎？現在，這個資料包解決了這些問題！
