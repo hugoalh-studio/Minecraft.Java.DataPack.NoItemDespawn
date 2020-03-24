@@ -1,49 +1,74 @@
-# <div align="center">Minecraft Java Data Pack: No Item Despawn<br />Minecraft Java資料包：沒有物品消失</div>
+🌐｜[English](./README.md)　[中文](./README.zh-hant.md)
+
+# <div align="center">Minecraft Java Data Pack: No Item Despawn</div>
+
+<div align="center">
+  <code>hugoalh/Minecraft.Java.DataPack.NoItemDespawn</code><br />
+  <img src="https://img.shields.io/github/languages/count/hugoalh/Minecraft.Java.DataPack.NoItemDespawn?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/github/languages/top/hugoalh/Minecraft.Java.DataPack.NoItemDespawn?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/github/repo-size/hugoalh/Minecraft.Java.DataPack.NoItemDespawn?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/github/watchers/hugoalh/Minecraft.Java.DataPack.NoItemDespawn?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/github/stars/hugoalh/Minecraft.Java.DataPack.NoItemDespawn?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/github/forks/hugoalh/Minecraft.Java.DataPack.NoItemDespawn?style=flat-square&logo=github" />
+</div>
 
 <table>
   <tr>
-    <td align="center"><strong>Index<br />索引</strong></td>
-    <td>hugoalh/Minecraft.Java.DataPack.NoItemDespawn</td>
+    <td align="center">
+      <b>Author & Contributor</b><br />
+      <img src="https://img.shields.io/github/contributors/hugoalh/Minecraft.Java.DataPack.NoItemDespawn?style=flat-square&color=000000&label=%20" />
+    </td>
+    <td><a href="https://github.com/hugoalh">hugoalh</a></td>
   </tr>
   <tr>
-    <td align="center"><strong>Author<br />作者</strong></td>
-    <td>hugoalh</td>
+    <td align="center"><b>License</b></td>
+    <td>Public source; All rights reserved, unless otherwise explicitly stated</td>
   </tr>
   <tr>
-    <td align="center"><strong>License<br />授權</strong></td>
-    <td>Public source; All rights reserved, unless otherwise explicitly stated<br />公開源碼；除非另有明確說明，否則保留所有權利</td>
+    <td align="center"><b>Release</b></td>
+    <td>
+      <b>Stable: </b><img src="https://img.shields.io/github/release/hugoalh/Minecraft.Java.DataPack.NoItemDespawn?style=flat-square&color=000000&label=%20" /> (<img src="https://img.shields.io/github/release-date/hugoalh/Minecraft.Java.DataPack.NoItemDespawn?style=flat-square&color=000000&label=%20" />); <b>Latest: </b><img src="https://img.shields.io/github/release/hugoalh/Minecraft.Java.DataPack.NoItemDespawn?include_prereleases&style=flat-square&color=000000&label=%20" /> (<img src="https://img.shields.io/github/release-date-pre/hugoalh/Minecraft.Java.DataPack.NoItemDespawn?style=flat-square&color=000000&label=%20" />)
+    </td>
   </tr>
   <tr>
-    <td align="center"><strong>Download<br />下載</strong></td>
-    <td><a href="https://www.curseforge.com/minecraft/customization/noitemdespawn-datapack">CurseForge</a></td>
+    <td align="center">
+      <b>Download</b><br />
+      <img src="https://img.shields.io/github/downloads/hugoalh/Minecraft.Java.DataPack.NoItemDespawn/total?style=flat-square&color=000000&label=%20" />
+    </td>
+    <td><ul>
+      <li><a href="https://www.curseforge.com/minecraft/customization/noitemdespawn-datapack">CurseForge</a></li>
+      <li><a href="https://github.com/hugoalh/Minecraft.Java.DataPack.NoItemDespawn/releases">GitHub</a></li>
+    </ul></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Issue</b></td>
+    <td>
+      <b>Open: </b><img src="https://img.shields.io/github/issues-raw/hugoalh/Minecraft.Java.DataPack.NoItemDespawn?style=flat-square&color=000000&label=%20" />; <b>Closed: </b><img src="https://img.shields.io/github/issues-closed-raw/hugoalh/Minecraft.Java.DataPack.NoItemDespawn?style=flat-square&color=000000&label=%20" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Pull Request</b></td>
+    <td>
+      <b>Open: </b><img src="https://img.shields.io/github/issues-pr-raw/hugoalh/Minecraft.Java.DataPack.NoItemDespawn?style=flat-square&color=000000&label=%20" />; <b>Closed: </b><img src="https://img.shields.io/github/issues-pr-closed-raw/hugoalh/Minecraft.Java.DataPack.NoItemDespawn?style=flat-square&color=000000&label=%20" />
+    </td>
   </tr>
 </table>
 
-## ⚠<br />Important<br />重要
-- This data pack is not recommended to execute on a low performance device!<br />
-此資料包不建議在低性能的設備上執行！
-- User has their own responsibility to undertake the risk of lag/crash/damage on their device, author have no any responsibility to undertake those risk.<br />
-用戶有責任承擔設備卡頓／崩潰／損壞的風險，作者沒有任何責任承擔這些風險。
-- If the world has too many items, it can cause lag/crash!<br />
-如果世界上的物品太多，可以造成卡頓／崩潰！
+## 📜 Description
 
-## 📜<br />Description<br />說明
+To prevent item despawn.
 
-To prevent item despawn.<br />
-防止物品消失。
+This is a reborn project of NoItemDespawn [Modification], and rewrote code for better performance.
 
-This is a reborn project of NoItemDespawn [Modification], and rewrote code for better performance.<br />
-這是NoItemDespawn［模組］的重生專案，並重寫代碼以獲得更好的性能。
+Have you cry because you cannot pick up all of the items in time after death? Have you loss any important item because of item despawn? Now, this data pack solved these problems!
 
-Have you cry because you cannot pick up all of the items in time after death? Have you loss any important item because of item despawn? Now, this data pack solved these problems!<br />
-你是否曾經傷心因為你死後不能及時拿起所有物品嗎？你是否因為物品消失而丟失了任何重要的物品嗎？現在，這個資料包解決了這些問題！
+Unfortunately, this data pack still cannot solve item drop to the void, lava, fire, or by explosion...
 
-Unfortunately, this data pack still cannot solve item drop to the void, lava, fire, or by explosion...<br />
-不幸的是，這個資料包仍然無法解決物品掉落到虛空、熔岩、火，或被炸掉…
+### ⚠ Important
+- This data pack is not recommended to execute on a low performance device!
+- User has their own responsibility to undertake the risk of lag/crash/damage on their device, author have no any responsibility to undertake those risk.
+- If the world has too many items, it can cause lag/crash!
 
-## 🐛<br />Issue<br />問題
+## 🐛 Issue
 
-Found any issue in this project? Submit the issue via [GitHub (require GitHub account)][issueform_github] or [Google Forms (not require any account)][issurform_googleform].<br />在這個專案中發現任何問題？通過[GitHub（需要GitHub帳戶）][issueform_github]或[Google表單（不需要任何帳戶）][issurform_googleform]提交該問題。
-
-[issueform_github]: https://github.com/hugoalh/Minecraft.Java.DataPack.NoItemDespawn/issues
-[issurform_googleform]: https://goo.gl/forms/yoecFL5qJYVl2d0i2
+Found any issue in this project? Submit the issue via [GitHub](https://github.com/hugoalh/Minecraft.Java.DataPack.NoItemDespawn/issues) or [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSf7THj4zWMeT5vC4Hs3dx9nZLzUy0Tn7bS3unExHTw13g0ZuA/viewform?usp=sf_link).
