@@ -4,6 +4,7 @@
 
 | **Version** | **Targeted Minecraft Java Version** | **Support** |
 |:----|:----|:----|
+| v3.0.0 | 1.15.2 | ✔ |
 | v2.5.0 | 1.14.4 | ✔ |
 | < v2.5.0 |  | ❌ |
 
