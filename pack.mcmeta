@@ -1,17 +1,6 @@
 {
 	"pack": {
-		"index": "hugoalh/Minecraft.Java.DataPack.NoItemDespawn",
-		"name": "[Java Data Pack] No Item Despawn",
-		"author": "hugoalh",
-		"version": "3.0.0",
-		"description": "No Item Despawn, 3.0.0",
-		"tag": [
-			"hugoalh",
-			"java",
-			"datapack",
-			"item",
-			"despawn"
-		],
+		"description": "No Item Despawn (v3.0.1): To prevent item despawn.",
 		"pack_format": 5
 	}
 }
