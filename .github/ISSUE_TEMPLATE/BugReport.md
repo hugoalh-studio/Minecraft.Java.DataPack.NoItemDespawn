@@ -13,7 +13,13 @@ assignees: ""
 
 ## Version
 
-*Must be a supported version(s) listed in the [security policy](https://github.com/hugoalh-studio/Minecraft.Java.DataPack.NoItemDespawn/security/policy). (Leaving this slot blank will default to the latest version.)*
+*Must be a supported version(s) listed in the "[Security Policy](https://github.com/hugoalh/Minecraft.Java.DataPack.NoItemDespawn/security/policy)".*
+
+
+
+## Minecraft Java Version
+
+*Must be a supported version(s) listed in the "[Security Policy](https://github.com/hugoalh/Minecraft.Java.DataPack.NoItemDespawn/security/policy)"; If using any modification, also list it here (e.g.: Forge).*
 
 
 

@@ -13,7 +13,13 @@ assignees: ""
 
 ## 版本
 
-*必須是[安全政策](https://github.com/hugoalh-studio/Minecraft.Java.DataPack.NoItemDespawn/security/policy)中列出的受支持版本。（將此欄保留為空白將會默認為最新版本。）*
+*必須是「[安全政策（英文）](https://github.com/hugoalh/Minecraft.Java.DataPack.NoItemDespawn/security/policy)」中列出的受支持版本。*
+
+
+
+## Minecraft Java版本
+
+*必須是「[安全政策（英文）](https://github.com/hugoalh/Minecraft.Java.DataPack.NoItemDespawn/security/policy)」中列出的受支持版本；如果使用任何模組，也在此欄列出（例如：Forge）。*
 
 
 
