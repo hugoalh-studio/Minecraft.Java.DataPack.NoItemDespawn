@@ -17,7 +17,7 @@
 
 <table>
   <tr>
-    <td><a href="./LICENSE.md"><b>授權條款</b></a></td>
+    <td><a href="./LICENSE-zh-TW.md"><b>授權條款</b></a></td>
     <td>MIT</td>
   </tr>
   <tr>
