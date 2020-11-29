@@ -12,9 +12,9 @@
 
 | **Version** | **Targeted Minecraft Java Data Pack Version** | **Support** |
 |:---:|:---:|:---:|
-| v4.0.0 | 6 | ✔ |
-| v3.0.0 | 5 | 👎 |
-| v2.5.0 | 4 | 👎 |
+| v4 | 6 | ✔ |
+| v3 | 5 | 👎 |
+| v2.5 | 4 | 👎 |
 | < v2.5 |  | ❌ |
 
 ## Report Vulnerability
