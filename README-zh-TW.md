@@ -4,13 +4,13 @@
 
 <details>
   <summary><a href="https://github.com/hugoalh/Minecraft.Java.DataPack.NoItemDespawn"><code>hugoalh/Minecraft.Java.DataPack.NoItemDespawn</code></a></summary>
-  <img align="center" alt="GitHub語言總數" src="https://img.shields.io/github/languages/count/hugoalh/Minecraft.Java.DataPack.NoItemDespawn?label=語言總數&logo=github&logoColor=ffffff&style=flat-square" />
+  <img align="center" alt="GitHub語言總數" src="https://img.shields.io/github/languages/count/hugoalh/Minecraft.Java.DataPack.NoItemDespawn?label=%E8%AA%9E%E8%A8%80%E7%B8%BD%E6%95%B8&logo=github&logoColor=ffffff&style=flat-square" />
   <img align="center" alt="GitHub熱門語言" src="https://img.shields.io/github/languages/top/hugoalh/Minecraft.Java.DataPack.NoItemDespawn?logo=github&logoColor=ffffff&style=flat-square" />
-  <img align="center" alt="GitHub儲存庫大小" src="https://img.shields.io/github/repo-size/hugoalh/Minecraft.Java.DataPack.NoItemDespawn?label=儲存庫大小&logo=github&logoColor=ffffff&style=flat-square" />
-  <img align="center" alt="GitHub代碼大小" src="https://img.shields.io/github/languages/code-size/hugoalh/Minecraft.Java.DataPack.NoItemDespawn?label=代碼大小&logo=github&logoColor=ffffff&style=flat-square" />
-  <img align="center" alt="GitHub觀察者" src="https://img.shields.io/github/watchers/hugoalh/Minecraft.Java.DataPack.NoItemDespawn?label=觀察者&logo=github&logoColor=ffffff&style=flat-square" />
-  <img align="center" alt="GitHub星" src="https://img.shields.io/github/stars/hugoalh/Minecraft.Java.DataPack.NoItemDespawn?label=星&logo=github&logoColor=ffffff&style=flat-square" />
-  <img align="center" alt="GitHub分支" src="https://img.shields.io/github/forks/hugoalh/Minecraft.Java.DataPack.NoItemDespawn?label=分支&logo=github&logoColor=ffffff&style=flat-square" />
+  <img align="center" alt="GitHub儲存庫大小" src="https://img.shields.io/github/repo-size/hugoalh/Minecraft.Java.DataPack.NoItemDespawn?label=%E5%84%B2%E5%AD%98%E5%BA%AB%E5%A4%A7%E5%B0%8F&logo=github&logoColor=ffffff&style=flat-square" />
+  <img align="center" alt="GitHub代碼大小" src="https://img.shields.io/github/languages/code-size/hugoalh/Minecraft.Java.DataPack.NoItemDespawn?label=%E4%BB%A3%E7%A2%BC%E5%A4%A7%E5%B0%8F&logo=github&logoColor=ffffff&style=flat-square" />
+  <img align="center" alt="GitHub觀察者" src="https://img.shields.io/github/watchers/hugoalh/Minecraft.Java.DataPack.NoItemDespawn?label=%E8%A7%80%E5%AF%9F%E8%80%85&logo=github&logoColor=ffffff&style=flat-square" />
+  <img align="center" alt="GitHub星" src="https://img.shields.io/github/stars/hugoalh/Minecraft.Java.DataPack.NoItemDespawn?label=%E6%98%9F&logo=github&logoColor=ffffff&style=flat-square" />
+  <img align="center" alt="GitHub分支" src="https://img.shields.io/github/forks/hugoalh/Minecraft.Java.DataPack.NoItemDespawn?label=%E5%88%86%E6%94%AF&logo=github&logoColor=ffffff&style=flat-square" />
 </details>
 
 一個Minecraft Java資料包以防止物品消失。
