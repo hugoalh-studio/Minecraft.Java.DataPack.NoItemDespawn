@@ -28,5 +28,5 @@ embeds:
         value: "https://www.curseforge.com/minecraft/customization/noitemdespawn-datapack"
         inline: false
       - name: "GitHub Repository"
-        value: "https://github.com/hugoalh/GitHubAction.SendToIFTTT"
+        value: "https://github.com/hugoalh-studio/Minecraft.Java.DataPack.NoItemDespawn"
         inline: false
