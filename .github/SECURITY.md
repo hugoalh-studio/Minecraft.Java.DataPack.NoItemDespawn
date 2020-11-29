@@ -10,11 +10,11 @@
 > | ❌ | **No:** This is not supported due to this version(s) is too old. |
 > | ⚠ | **Issue:** This is not supported due to this version(s) is confirmed contains bug(s) and/or issue(s). |
 
-| **Version** | **Targeted Minecraft Java Version** | **Support** |
+| **Version** | **Targeted Minecraft Java Data Pack Version** | **Support** |
 |:---:|:---:|:---:|
-| v4.0.0 | v1.16.0 | ✔ |
-| v3.0.0 | v1.15.2 | 👎 |
-| v2.5.0 | v1.14.4 | 👎 |
+| v4.0.0 | 6 | ✔ |
+| v3.0.0 | 5 | 👎 |
+| v2.5.0 | 4 | 👎 |
 | < v2.5 |  | ❌ |
 
 ## Report Vulnerability
