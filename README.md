@@ -28,7 +28,7 @@ A Minecraft Java Data Pack to prevent item despawn.
     </td>
   </tr>
   <tr>
-    <td><a href="https://www.curseforge.com/minecraft/customization/noitemdespawn-datapack"><b>Release (CurseForge)</b></a></td>
+    <td><a href="https://www.curseforge.com/minecraft/customization/no-item-despawn"><b>Release (CurseForge)</b></a></td>
     <td><img align="center" alt="CurseForge" src="https://img.shields.io/static/v1?style=flat-square&logo=curseforge&label=curseforge&message=%20&color=orange" /></td>
   </tr>
   <tr>
