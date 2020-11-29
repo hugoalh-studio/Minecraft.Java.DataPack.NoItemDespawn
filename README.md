@@ -1,3 +1,5 @@
+🌐 | [English](./README.md) / [中文](./README-zh-TW.md)
+
 # \[Minecraft Java Data Pack\] No Item Despawn
 
 <details>
