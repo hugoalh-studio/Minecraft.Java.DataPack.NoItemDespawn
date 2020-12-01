@@ -50,7 +50,7 @@ A Minecraft Java Data Pack to prevent item despawn.
 
 ## 📜 Description
 
-*This is a reborn project of NoItemDespawn (Minecraft Java Modification (Forge)) and rewrote code for better performance.*
+*This is a reborn project of NoItemDespawn (Forge Modification) and rewrote code for better performance.*
 
 Have you cry because you cannot pick up all of the items in time after death? Have you loss any important item because of item despawn? Now, this data pack solved these problems!
 
